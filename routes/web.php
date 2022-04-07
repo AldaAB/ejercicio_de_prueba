@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+// cambio realizado por Aldahir
+
 Route::get('/', function () {
     return view('welcome');
 });
